@@ -1,0 +1,4 @@
+extract all and run Cube Tales v0.3.exe 
+controls:
+a for left
+d for right

@@ -1,0 +1,14 @@
+v0.1 18/12/2020
+-5 levels
+-player speed varies through each level
+
+v0.2 19/12/2020
+-7 levels
+-windows screen mode changed to exclusive fullscreen
+-only one graphic settings now
+
+v0.3 11/01/2020
+-fix lvl 7 not being able to be completed bug
+-10 levels
+-windows mode changed back to normal window
+-added bgm(BounceTales https://www.youtube.com/watch?v=kjubEsLYHH4)
